@@ -1,0 +1,14 @@
+/node_modules
+/vendor
+/storage
+/tests
+/.git
+/.github
+.env
+.env.example
+.gitignore
+.phpunit.result.cache
+README.md
+package-lock.json
+yarn.lock
+composer.lock 
